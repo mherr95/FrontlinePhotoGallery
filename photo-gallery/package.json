@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "npm": "^8.17.0"
-=======
   "name": "photo-gallery",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +36,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 615379e75c73487d299122f11e9f488047fa76ed
+
   }
 }
